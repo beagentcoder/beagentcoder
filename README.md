@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning ethical hacking.
 - 💞️ I’m looking to collaborate on cyber security related projects.
-- 📫 How to reach me beagentcoder@gmail.com
+- 📫 How to reach me sam.inbox.pc@gmail.com
 
 <!---
 beagentcoder/beagentcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
